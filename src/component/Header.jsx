@@ -1,5 +1,5 @@
 import React from "react";
-import MobileMenu from "./mobileMenu";
+import MobileMenu from "./MobileMenu";
 import close from "../assets/icon-close.svg";
 import hamburger from "../assets/icon-hamburger.svg";
 const Header = () => {
